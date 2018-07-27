@@ -1,1 +1,1 @@
-# UnrealSpeccy 0.38.3 by SMT
+# UnrealSpeccy 0.38.4 by SMT
