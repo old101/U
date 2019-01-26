@@ -1,1 +1,1 @@
-# UnrealSpeccy 0.38.4 by SMT
+# UnrealSpeccy 0.39.0 by deathsoft / SMT
